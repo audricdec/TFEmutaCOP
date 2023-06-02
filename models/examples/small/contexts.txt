@@ -1,0 +1,4 @@
+Context/Mandatory/UserAvailability
+Context/Optional/Peripheral
+UserAvailability/Alternative/Available-Busy
+Peripheral/Or/HasCamera-HasMicrophone

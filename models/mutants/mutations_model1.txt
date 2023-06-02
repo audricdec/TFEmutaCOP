@@ -1,0 +1,38 @@
+Connected Pair processed: <Device,Layout> 
+Applying AltToOr to Device and Layout. 
+
+Connected Pair processed: <UserAvailability,Notification> 
+Applying AltToOr to UserAvailability and Notification. 
+
+Connected Pair processed: <Peripheral,Notification> 
+Applying OrToAlt to Peripheral. 
+Applying AltToOr to Notification. 
+
+Connected Pair processed: <Age,Friend> 
+Applying AltToOr to Age. 
+
+Connected Pair processed: <Noise,Notification> 
+Applying AltToOr to Noise and Notification. 
+
+Connected Pair processed: <Connection,MessageType> 
+Applying AltToOr to Connection. 
+
+Connected Pair processed: <Peripheral,Layout> 
+Applying OrToAlt to Peripheral. 
+Applying AltToOr to Layout. 
+
+Connected Pair processed: <Age,AddSystem> 
+Applying AltToOr to Age and AddSystem. 
+
+Connected Pair processed: <Connection,Mode> 
+Applying AltToOr to Connection and Mode. 
+
+Connected Pair processed: <Peripheral,MessageType> 
+Applying OrToAlt to Peripheral. 
+Applying OrToOpt to Peripheral. 
+
+Connected Pair processed: <Device,Display> 
+Applying AltToOr to Device. 
+Applying OrToAlt to Display. 
+
+Total mutant generated: 15

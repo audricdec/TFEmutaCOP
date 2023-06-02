@@ -1,0 +1,19 @@
+Connected Pair processed: <UserAvailability,FilterAvailable> 
+Applying AltToOr to UserAvailability. 
+
+Connected Pair processed: <Localization,TranslateMessage> 
+Applying ManToOpt to Localization. 
+
+Connected Pair processed: <Peripheral,MessageType> 
+Applying AltToOr to Peripheral. 
+
+Connected Pair processed: <HighConnection,Video> 
+
+Connected Pair processed: <UserAvailability,Mode> 
+Applying AltToOr to UserAvailability and Mode. 
+
+Connected Pair processed: <ElectronicDevice,Layout> 
+Applying AltToOr to ElectronicDevice. 
+Applying OrToAlt to Layout. 
+
+Total mutant generated: 7

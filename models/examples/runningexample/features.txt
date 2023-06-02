@@ -1,0 +1,7 @@
+Feature/Mandatory/Mode-Receiving-Sending-MessageType-Layout-ContactSystem
+Feature/Optional/FilterAvailable-TranslateMessage
+Mode/Alternative/Alarm-Mute
+MessageType/Mandatory/Text
+MessageType/Optional/Vocal-Picture-Video
+Layout/Or/Simple-Complex 
+ContactSystem/Mandatory/AddContact-RemoveContact 

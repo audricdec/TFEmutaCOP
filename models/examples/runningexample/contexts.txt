@@ -1,0 +1,5 @@
+Context/Mandatory/UserAvailability-Localization-ElectronicDevice
+Context/Optional/Peripheral-HighConnection
+UserAvailability/Alternative/Available-Busy
+Peripheral/Alternative/HasMicrophone-HasCamera
+ElectronicDevice/Alternative/Mobile-Computer

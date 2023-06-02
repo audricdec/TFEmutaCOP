@@ -1,0 +1,4 @@
+Feature/Mandatory/Mode-MessageType
+Mode/Alternative/Alarm-Mute
+MessageType/Optional/Picture-Vocal
+MessageType/Mandatory/Text

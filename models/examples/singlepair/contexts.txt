@@ -1,0 +1,2 @@
+Context/Mandatory/Availability
+Availability/Or/Available-Busy

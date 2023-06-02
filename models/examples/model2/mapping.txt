@@ -1,0 +1,13 @@
+HighNoise-ACTIVATES-HighVolume
+LowNoise-ACTIVATES-LowVolume
+InternetConnection-ACTIVATES-Internet
+StandardCommunication-ACTIVATES-GSM-PhoneNumber
+NotWorkingHours-ACTIVATES-SendLater
+WorkingHours-ACTIVATES-SendNow
+LowConnection-ACTIVATES-Text
+HighConnection-ACTIVATES-Picture-Vocal
+Online-ACTIVATES-FilterOnline-Alarm
+Offline-ACTIVATES-Airplane
+Busy-ACTIVATES-Silent
+Busy-HighSpeed-ACTIVATES-ShortMessage
+Active-ACTIVATES-TranslateMessage

@@ -1,0 +1,8 @@
+Connected Pair processed: <Peripheral,MessageType> 
+Applying OrToAlt to Peripheral. 
+Applying OrToOpt to Peripheral. 
+
+Connected Pair processed: <UserAvailability,Mode> 
+Applying AltToOr to UserAvailability and Mode. 
+
+Total mutant generated: 3

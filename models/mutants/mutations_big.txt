@@ -1,0 +1,187 @@
+Connected Pair processed: <C20,F21> 
+Applying OrToAlt to C20. 
+Applying OrToOpt to C20. 
+
+Connected Pair processed: <C5,F14> 
+Applying AltToOr to C5 and F14. 
+
+Connected Pair processed: <C6,F50> 
+Applying AltToOr to C6. 
+Applying OrToAlt to F50. 
+
+Connected Pair processed: <C13,F18> 
+Applying AltToOr to C13. 
+Applying OrToAlt to F18. 
+
+Connected Pair processed: <C13,F5> 
+Applying AltToOr to C13 and F5. 
+
+Connected Pair processed: <C16,F7> 
+Applying OrToAlt to C16. 
+Applying AltToOr to F7. 
+
+Connected Pair processed: <C17,F19> 
+Applying OrToAlt to C17 and F19
+Applying OrToOpt to C17 and F19
+
+Connected Pair processed: <C20,F22> 
+Applying OrToAlt to C20. 
+Applying OrToOpt to C20. 
+
+Connected Pair processed: <C9,F17> 
+Applying OrToAlt to C9. 
+Applying OrToOpt to C9. 
+
+Connected Pair processed: <C14,F6> 
+Applying AltToOr to C14 and F6. 
+
+Connected Pair processed: <C17,F19> 
+Applying OrToAlt to C17. 
+Applying OrToOpt to C17. 
+
+Connected Pair processed: <C17,F20> 
+Applying OrToAlt to C17. 
+Applying OrToOpt to C17. 
+
+Connected Pair processed: <C20,F23> 
+Applying OrToAlt to C20. 
+Applying OrToOpt to C20. 
+
+Connected Pair processed: <C11,F4> 
+Applying OrToAlt to C11. 
+Applying AltToOr to F4. 
+
+Connected Pair processed: <C7,F53> 
+Applying AltToOr to C7. 
+Applying OrToAlt to F53. 
+
+Connected Pair processed: <C4,F14> 
+Applying AltToOr to C4 and F14. 
+
+Connected Pair processed: <C15,F7> 
+Applying OrToAlt to C15. 
+Applying AltToOr to F7. 
+
+Connected Pair processed: <C17,F8> 
+Applying OrToAlt to C17. 
+Applying AltToOr to F8. 
+
+Connected Pair processed: <C17,F9> 
+Applying OrToAlt to C17 and F9
+Applying OrToOpt to C17 and F9
+
+Connected Pair processed: <C19,F11> 
+Applying OrToAlt to C19 and F11
+Applying OrToOpt to C19 and F11
+
+Connected Pair processed: <C19,F10> 
+Applying OrToAlt to C19 and F10
+Applying OrToOpt to C19 and F10
+
+Connected Pair processed: <C15,F6> 
+Applying OrToAlt to C15. 
+Applying AltToOr to F6. 
+
+Connected Pair processed: <C10,F59> 
+Applying OrToAlt to C10 and F59
+Applying OrToOpt to C10 and F59
+
+Connected Pair processed: <C7,F52> 
+Applying AltToOr to C7. 
+Applying OrToAlt to F52. 
+
+Connected Pair processed: <C4,F16> 
+Applying AltToOr to C4. 
+Applying OrToAlt to F16. 
+
+Connected Pair processed: <C4,F15> 
+Applying AltToOr to C4. 
+
+Connected Pair processed: <C18,F10> 
+Applying OrToAlt to C18 and F10
+Applying OrToOpt to C18 and F10
+
+Connected Pair processed: <C20,F11> 
+Applying OrToAlt to C20 and F11
+Applying OrToOpt to C20 and F11
+
+Connected Pair processed: <C10,F58> 
+Applying OrToAlt to C10 and F58
+Applying OrToOpt to C10 and F58
+
+Connected Pair processed: <C6,F51> 
+Applying AltToOr to C6. 
+Applying OrToAlt to F51. 
+
+Connected Pair processed: <C18,F9> 
+Applying OrToAlt to C18 and F9
+Applying OrToOpt to C18 and F9
+
+Connected Pair processed: <C5,F48> 
+Applying AltToOr to C5. 
+Applying OrToAlt to F48. 
+
+Connected Pair processed: <C8,F54> 
+Applying AltToOr to C8. 
+Applying OrToAlt to F54. 
+
+Connected Pair processed: <C20,F12> 
+Applying OrToAlt to C20. 
+Applying AltToOr to F12. 
+
+Connected Pair processed: <C9,F56> 
+Applying OrToAlt to C9 and F56
+Applying OrToOpt to C9 and F56
+
+Connected Pair processed: <C14,F5> 
+Applying AltToOr to C14 and F5. 
+
+Connected Pair processed: <C17,F20> 
+Applying OrToAlt to C17 and F20
+Applying OrToOpt to C17 and F20
+
+Connected Pair processed: <C4,F15> 
+Applying AltToOr to C4. 
+Applying OrToAlt to F15. 
+
+Connected Pair processed: <C9,F17> 
+Applying OrToAlt to C9 and F17
+Applying OrToOpt to C9 and F17
+
+Connected Pair processed: <C16,F8> 
+Applying OrToAlt to C16. 
+Applying AltToOr to F8. 
+
+Connected Pair processed: <C12,F4> 
+Applying AltToOr to C12 and F4. 
+
+Connected Pair processed: <C6,F52> 
+Applying AltToOr to C6. 
+Applying OrToAlt to F52. 
+
+Connected Pair processed: <C4,F16> 
+Applying AltToOr to C4. 
+
+Connected Pair processed: <C5,F49> 
+Applying AltToOr to C5. 
+Applying OrToAlt to F49. 
+
+Connected Pair processed: <C13,F18> 
+Applying AltToOr to C13. 
+
+Connected Pair processed: <C9,F57> 
+Applying OrToAlt to C9 and F57
+Applying OrToOpt to C9 and F57
+
+Connected Pair processed: <C10,F60> 
+Applying OrToAlt to C10 and F60
+Applying OrToOpt to C10 and F60
+
+Connected Pair processed: <C8,F55> 
+Applying AltToOr to C8. 
+Applying OrToAlt to F55. 
+
+Connected Pair processed: <C4,F13> 
+Applying AltToOr to C4 and F13. 
+
+Total mutant generated: 88

@@ -1,0 +1,13 @@
+Feature/Mandatory/Filter-Mode-Profile-Contact-Group-SendMessage-MessagingProtocol-MessageType-NotificationVolume
+Feature/Optional/ShortMessage-TranslateMessage
+Filter/Mandatory/FilterByName
+Filter/Optional/FilterOnline
+Modes/Alternative/Silent-Alarm-Airplane
+Profile/Mandatory/Name-Avatar
+Profile/Optional/PhoneNumber
+Contact/Mandatory/AddContact-RemoveContact
+Group/Mandatory/AddToGroup-RemoveFromGroup
+SendMessage/Alternative/SendLater-SendNow
+MessagingProtocol/Or/GSM-Internet
+MessageType/Alternative/Text-Vocal-Picture
+NotificationVolume/Alternative/HighVolume-LowVolume

@@ -1,0 +1,14 @@
+Occupied-ACTIVATES-Mute
+Quiet-ACTIVATES-Mute
+Available-Normal-AudioCard-ACTIVATES-Alarm
+Available-Loud-ACTIVATES-Vibration
+AudioCard-ACTIVATES-Vocal
+VideoCard-Good-ACTIVATES-Photo
+Good-ACTIVATES-Standard
+Bad-ACTIVATES-Light
+Teen-ACTIVATES-Match-ProfilePicture
+Adult-ACTIVATES-Search-Description
+Smartphone-ACTIVATES-Minimalist-Keyboard
+Tablet-ACTIVATES-Keyboard
+VideoCard-Desktop-ACTIVATES-Complete
+VideoCard-Tablet-ACTIVATES-Complete

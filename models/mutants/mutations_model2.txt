@@ -1,0 +1,32 @@
+Connected Pair processed: <ConnectionType,Profile> 
+Applying AltToOr to ConnectionType. 
+
+Connected Pair processed: <TimeDate,SendMessage> 
+Applying AltToOr to TimeDate and SendMessage. 
+
+Connected Pair processed: <Status,ShortMessage> 
+Applying AltToOr to Status. 
+
+Connected Pair processed: <Status,Filter> 
+Applying AltToOr to Status. 
+
+Connected Pair processed: <ConnectionIntensity,MessageType> 
+Applying AltToOr to ConnectionIntensity and MessageType. 
+
+Connected Pair processed: <MovementSpeed,ShortMessage> 
+Applying AltToOr to MovementSpeed. 
+
+Connected Pair processed: <Localization,TranslateMessage> 
+Applying AltToOr to Localization. 
+
+Connected Pair processed: <ConnectionType,MessagingProtocol> 
+Applying AltToOr to ConnectionType. 
+Applying OrToAlt to MessagingProtocol. 
+
+Connected Pair processed: <AmbientNoise,NotificationVolume> 
+Applying AltToOr to AmbientNoise and NotificationVolume. 
+
+Connected Pair processed: <Status,Modes> 
+Applying AltToOr to Status and Modes. 
+
+Total mutant generated: 11

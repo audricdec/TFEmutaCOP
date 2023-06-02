@@ -1,0 +1,5 @@
+Connected Pair processed: <Availability,Modes> 
+Applying OrToAlt to Availability and Modes
+Applying OrToOpt to Availability and Modes
+
+Total mutant generated: 2

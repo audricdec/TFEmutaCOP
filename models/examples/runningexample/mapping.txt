@@ -1,0 +1,8 @@
+Available-ACTIVATES-Alarm-FilterAvailable
+Busy-ACTIVATES-Mute
+HasMicrophone-ACTIVATES-Vocal
+HasCamera-ACTIVATES-Picture
+HasCamera-HighConnection-ACTIVATES-Video
+Localization-ACTIVATES-TranslateMessage
+Mobile-ACTIVATES-Simple
+Computer-ACTIVATES-Complex

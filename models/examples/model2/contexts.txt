@@ -1,0 +1,12 @@
+Context/Mandatory/Connection-AmbientNoise-Status-TimeDate
+Context/Optional/Localization
+Connection/Alternative/NoConnection-Connected
+Connected/Mandatory/ConnectionType-ConnectionIntensity
+ConnectionType/Alternative/InternetConnection-StandardCommunication
+ConnectionIntensity/Alternative/HighConnection-LowConnection
+AmbientNoise/Alternative/HighNoise-LowNoise
+Status/Alternative/Online-Busy-Offline
+TimeDate/Alternative/WorkingHours-NotWorkingHours
+Localization/Alternative/Active-Inactive
+Active/Optional/MovementSpeed
+MovementSpeed/Alternative/LowSpeed-HighSpeed

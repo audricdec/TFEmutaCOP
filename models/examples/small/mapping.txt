@@ -1,0 +1,4 @@
+Available-ACTIVATES-Alarm
+Busy-ACTIVATES-Mute
+HasCamera-ACTIVATES-Picture
+HasMicrophone-ACTIVATES-Vocal
